@@ -1,0 +1,26 @@
+{
+  "name": "kube-bower",
+  "description": "A web framework for professional developers and designers alike.",
+  "main": [
+    "dist/css/kube.css",
+    "dist/js/kube.js"
+  ],
+  "authors": [
+    "Imperavi LLC"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "kube",
+    "framework",
+    "imperavi",
+    "sass"
+  ],
+  "homepage": "https://imperavi.com/kube/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  }
+}
